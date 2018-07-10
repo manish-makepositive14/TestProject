@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request>
+  <accountList>
+    <accDataList>
+		<accountInstance>
+		  <Ship_to_Code__c>301928</Ship_to_Code__c>
+		  <Customer_Group_3_for_C_I_OEM_M_M__c>taken from SAP</Customer_Group_3_for_C_I_OEM_M_M__c>
+		  <Customer_Group2__c>Taken from SAP</Customer_Group2__c>
+		  <Customer_code__c>301928</Customer_code__c>
+		  <BU_Name__c>Fleet</BU_Name__c>
+		  <ShippingPostalCode>110015</ShippingPostalCode>
+		  <Fax>1348765</Fax>
+		  <Payment_Term__c>N100</Payment_Term__c>
+		  <ShippingCity>NEW DELHI</ShippingCity>
+		  <ShippingStreet>41, RAMA ROAD, GOLE CHAKKAR NEAR MOTI NAGAR, NAJAFGARH ROAD</ShippingStreet>
+		  <Payer_code__c>301928</Payer_code__c>
+		  <ShippingCountry>India</ShippingCountry>
+		  <Name>SWADESHI AUTO PVT LTD</Name>
+		  <ShippingState>Delhi</ShippingState>
+		  <BillingCity>NEW DELHI</BillingCity>
+		  <Sold_to_code__c>301928</Sold_to_code__c>
+		  <BillingCountry>India</BillingCountry>
+		  <BillingPostalCode>110015</BillingPostalCode>
+		  <Zone__c>North</Zone__c>
+		  <BillingState>Delhi</BillingState>
+		  <BillingStreet> 41, RAMA ROAD, GOLE CHAKKAR NEAR MOTI NAGAR, NAJAFGARH ROAD</BillingStreet>
+		  <Depot_Code__c>9187</Depot_Code__c>
+		  <VA_GST_Number__c>AZ787817982</VA_GST_Number__c>
+		  <VA_ORC_Code__c>301928</VA_ORC_Code__c>
+		  <SFDC_Account_ID__c>A-004136</SFDC_Account_ID__c>
+		  <VA_Block__c>Y</VA_Block__c>
+		</accountInstance>
+	 </accDataList>
+	 <accDataList>
+		<accountInstance>
+		  <Ship_to_Code__c>301929</Ship_to_Code__c>
+		  <Customer_Group_3_for_C_I_OEM_M_M__c>taken from SAP</Customer_Group_3_for_C_I_OEM_M_M__c>
+		  <Customer_Group2__c>Taken from SAP</Customer_Group2__c>
+		  <Customer_code__c>301928</Customer_code__c>
+		  <BU_Name__c>Fleet</BU_Name__c>
+		  <ShippingPostalCode>110015</ShippingPostalCode>
+		  <Fax>1348765</Fax>
+		  <Payment_Term__c>N100</Payment_Term__c>
+		  <ShippingCity>NEW DELHI</ShippingCity>
+		  <ShippingStreet>41, RAMA ROAD, GOLE CHAKKAR NEAR MOTI NAGAR, NAJAFGARH ROAD</ShippingStreet>
+		  <Payer_code__c>301928</Payer_code__c>
+		  <ShippingCountry>India</ShippingCountry>
+		  <Name>SWADESHI AUTO PVT LTD</Name>
+		  <ShippingState>Delhi</ShippingState>
+		  <BillingCity>NEW DELHI</BillingCity>
+		  <Sold_to_code__c>301928</Sold_to_code__c>
+		  <BillingCountry>India</BillingCountry>
+		  <BillingPostalCode>110015</BillingPostalCode>
+		  <Zone__c>North</Zone__c>
+		  <BillingState>Delhi</BillingState>
+		  <BillingStreet> 41, RAMA ROAD, GOLE CHAKKAR NEAR MOTI NAGAR, NAJAFGARH ROAD</BillingStreet>
+		  <Depot_Code__c>9187</Depot_Code__c>
+		  <VA_GST_Number__c>AZ787817982</VA_GST_Number__c>
+		  <VA_ORC_Code__c>301929</VA_ORC_Code__c>
+		  <SFDC_Account_ID__c>A-004138</SFDC_Account_ID__c>
+		  <VA_Block__c>N</VA_Block__c>
+		</accountInstance>
+    </accDataList>
+  </accountList>
+</request>
